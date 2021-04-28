@@ -35,6 +35,11 @@ I am 21 years old and in my profile you will find information about my courses a
 
 ![Damazordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damazordon&theme=dark&show_icons=true)
 
+### Wakatime
+
+[![Damazordon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Damazordon&theme=dark&show_icons=true)](https://github.com/Damazordon/github-readme-stats)
+
+
 
 
 
