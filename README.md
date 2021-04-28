@@ -1,4 +1,4 @@
-### Hi  👋   :brazil:
+### Hi  👋   
 
 i am 21 years old and in my profile you will find information about my courses and college work, i hope it catches your attention.
 
