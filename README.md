@@ -4,7 +4,7 @@ i am 21 years old and in my profile you will find information about my courses a
 
 ### Contact me :D
 
-<a href="https://www.linkedin.com/in/alexandresanlim/" rel="nofollow">  
+<a href="https://www.facebook.com/gabriel.damasceno.5621149/" rel="nofollow">  
    <img src="https://img.shields.io/badge/Gabriel Damasceno-000000?style=for-the-badge&logo=facebook&logoColor=white" />
 
 ### :star: Programming Languages :star:
