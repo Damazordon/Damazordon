@@ -31,9 +31,9 @@ I am 21 years old and in my profile you will find information about my courses a
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
-### EXTRAS
+### Stats ✍️
 
-[![Damazordon github stats](https://github-readme-stats.vercel.app/api?username=Damazordon&theme=cyan-000000)](https://github.com/Damazordon/github-readme-stats)
+[![Damazordon github stats](https://github-readme-stats.vercel.app/api?username=Damazordon&theme=000000-000000)](https://github.com/Damazordon/github-readme-stats)
 
 
 
