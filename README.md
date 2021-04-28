@@ -1,8 +1,8 @@
-### Hi  👋   
+### Hi  👋   🇧🇷
 
 i am 21 years old and in my profile you will find information about my courses and college work, i hope it catches your attention.
 
-### Contact me :D
+### Contact me 😃
 
 <a href="https://www.facebook.com/gabriel.damasceno.5621149/" rel="nofollow">  <img src="https://img.shields.io/badge/Gabriel Damasceno-000000?style=for-the-badge&logo=facebook&logoColor=white" />
 
