@@ -21,6 +21,8 @@ I am 21 years old and in my profile you will find information about my courses a
 
 ### IDE'S  👨‍💻
 
+<img src="https://img.shields.io/badge/<Visual Studio Code>-<>-<white>" />
+
 
 
 
