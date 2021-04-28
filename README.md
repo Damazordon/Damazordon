@@ -21,7 +21,7 @@ I am 21 years old and in my profile you will find information about my courses a
 
 ### IDE'S  👨‍💻
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" /> <img src="https://img.shields.io/badge/DEV-C%2B%2B-blue"/>
 
 
 
