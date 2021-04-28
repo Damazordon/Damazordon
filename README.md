@@ -42,7 +42,7 @@ Analise e Desenvolvimento de sistemas - Fatec Mogi das Cruzes 🧑‍🎓
 
 ### Wakatime 👷
 
-[![Damazordon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Damazordon&theme=react&show_icons=true)](https://github.com/Damazordon/github-readme-stats)
+[![Damazordon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Damazordon&theme=react&show_icons=true)](https://github.com/Damazordon/github-readme-stats)
 
 
 
