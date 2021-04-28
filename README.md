@@ -7,7 +7,7 @@ From São Paulo, Brasil
 
 Analise e Desenvolvimento de sistemas - Fatec Mogi das Cruzes 🧑‍🎓
 
-Mu resumes <a href="https://github.com/Damazordon/Damazordon/blob/main/Curr%C3%ADculo%20Est%C3%A1gio%20Gabriel%20Damasceno.pdf"> 
+
 
 ### Social 😃
 
