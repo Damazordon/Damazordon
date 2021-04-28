@@ -1,4 +1,4 @@
-### Hi !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" style="max-width:100%;">
+### Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />  
 
 
 I am 21 years old and in my profile you will find information about my courses and college work, i hope it catches your attention.  
@@ -10,7 +10,7 @@ I am 21 years old and in my profile you will find information about my courses a
 <a href="https://www.facebook.com/gabriel.damasceno.5621149/" rel="nofollow">  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue" />  <a href="https://www.instagram.com/dalai_dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink" /> <a href="https://twitter.com/Dalai_Dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=cyan" />
 
 ### Contact Me 📧
-<a href="https://www.linkedin.com/in/gabriel-damasceno-92815719b/" rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" /> <a href="mailto:gabrielgabridma@gmail.com.br?Subject=Título%20da%20mensagem">  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+<a href="https://www.linkedin.com/in/gabriel-damasceno-92815719b/" rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" /> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvnJHgwmLWKkPjzldrDmtZRSrDssJrgMZGqvRBQzzgTXNlzQqpVGgmMXztBjHVwKpHnzcg" rel="nofollow"> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
 
 
 ### Programming Languages ⚛️
@@ -21,7 +21,10 @@ I am 21 years old and in my profile you will find information about my courses a
 
 ### IDE'S  👨‍💻
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" /> <img src="https://img.shields.io/badge/DEV_C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" />
+
+
+### Data Base :lightning:
 
 
 
