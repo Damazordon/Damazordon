@@ -1,4 +1,4 @@
-### Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />  
+### Hi !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" style="max-width:100%;">
 
 
 I am 21 years old and in my profile you will find information about my courses and college work, i hope it catches your attention.  
@@ -21,7 +21,9 @@ I am 21 years old and in my profile you will find information about my courses a
 
 ### IDE'S  👨‍💻
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" /> <img src="https://img.shields.io/badge/DEV_C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" /> <img src="https://img.shields.io/badge/DEV_C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
 
 
 ### Data Base :lightning:
