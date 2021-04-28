@@ -9,6 +9,10 @@ I am 21 years old and in my profile you will find information about my courses a
 
 <a href="https://www.facebook.com/gabriel.damasceno.5621149/" rel="nofollow">  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue" />  <a href="https://www.instagram.com/dalai_dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink" /> <a href="https://twitter.com/Dalai_Dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=cyan" />
 
+### Contact Me 📧
+<a href="https://www.linkedin.com/in/gabriel-damasceno-92815719b/" rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" />
+
+
 
 ### Programming Languages ⚛️
 
