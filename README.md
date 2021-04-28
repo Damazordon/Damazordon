@@ -4,7 +4,7 @@ I am 21 years old and in my profile you will find information about my courses a
 
 ### 😃 Social 😃
 
-<a href="https://www.facebook.com/gabriel.damasceno.5621149/" rel="nofollow">  <img src="https://img.shields.io/badge/Gabriel Damasceno-000000?style=for-the-badge&logo=facebook&logoColor=white" />  <a href="https://www.instagram.com/dalai_dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.facebook.com/gabriel.damasceno.5621149/" rel="nofollow">  <img src="https://img.shields.io/badge/Gabriel Damasceno-000000?style=for-the-badge&logo=facebook&logoColor=white" />  <a href="https://www.instagram.com/dalai_dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /> <a href="https://twitter.com/Dalai_Dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white />
 
 ### ⚛️ Programming Languages ⚛️
 
