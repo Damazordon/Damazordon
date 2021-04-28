@@ -4,6 +4,7 @@
 I am 21 years old and in my profile you will find information about my courses and college work, i hope it catches your attention.  
 
 
+
 ### Social 😃
 
 
@@ -33,11 +34,11 @@ I am 21 years old and in my profile you will find information about my courses a
 
 ### Stats ✍️
 
-![Damazordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damazordon&theme=dark&show_icons=true)
+![Damazordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damazordon&theme=react&show_icons=true)
 
 ### Wakatime 👷
 
-[![Damazordon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Damazordon&theme=dark&show_icons=true)](https://github.com/Damazordon/github-readme-stats)
+[![Damazordon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Damazordon&theme=react&show_icons=true)](https://github.com/Damazordon/github-readme-stats)
 
 
 
