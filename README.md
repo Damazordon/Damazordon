@@ -19,6 +19,11 @@ I am 21 years old and in my profile you will find information about my courses a
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" />  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue" />  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red" />  <img src="https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=purple" />
 
 
+### IDE'S  👨‍💻
+
+
+
+
 
 <!--
 **Damazordon/Damazordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
