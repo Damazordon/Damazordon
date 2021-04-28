@@ -28,6 +28,7 @@ I am 21 years old and in my profile you will find information about my courses a
 
 ### Data Base ⚡
 
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
 
