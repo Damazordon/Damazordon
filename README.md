@@ -15,7 +15,7 @@ Analise e Desenvolvimento de sistemas - Fatec Mogi das Cruzes 🧑‍🎓
 <a href="https://www.facebook.com/gabriel.damasceno.5621149/" rel="nofollow">  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue" />  <a href="https://www.instagram.com/dalai_dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink" /> <a href="https://twitter.com/Dalai_Dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=cyan" />
 
 ### Contact Me 📧
-<a href="https://www.linkedin.com/in/gabriel-damasceno-92815719b/" rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" /> <a href=mailto:gabrielgabridma@gmail.com.br> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+<a href="www.linkedin.com/in/damazordon"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" /> <a href=mailto:gabrielgabridma@gmail.com.br> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
 
 
 ### Programming Languages ⚛️
