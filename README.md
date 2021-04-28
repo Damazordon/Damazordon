@@ -4,7 +4,7 @@ i am 21 years old and in my profile you will find information about my courses a
 
 ### :star: Programming Languages :star:
 
-<img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=4B0082" />  <img src="https://img.shields.io/badge/TypeScript-4B0082?style=for-the-badge&logo=typescript&logoColor=white" />  <img src="https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white" />  <img src="https://img.shields.io/badge/C%2B%2B-4B0082?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white" />  <img src="https://img.shields.io/badge/Kotlin-4B0082?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=purple" />  <img src="https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=4B0082" />  <img src="https://img.shields.io/badge/TypeScript-4B0082?style=for-the-badge&logo=typescript&logoColor=white" />  <img src="https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white" />  <img src="https://img.shields.io/badge/C%2B%2B-4B0082?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white" />  <img src="https://img.shields.io/badge/Kotlin-4B0082?&style=for-the-badge&logo=kotlin&logoColor=white" />
 
 
 <!--
