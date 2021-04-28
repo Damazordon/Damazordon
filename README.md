@@ -33,8 +33,7 @@ I am 21 years old and in my profile you will find information about my courses a
 
 ### Stats ✍️
 
-<img src="https://camo.githubusercontent.com/00a6002c5f5721cb159427e4c39a612613411627e1b909171345ee05da0ddd16/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d75526f6273267468656d653d746f6b796f6e69676874" alt="Damazordon's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=Damazordon;theme=dark" style="max-width:100%;">
-
+<img src="https://camo.githubusercontent.com/1980c651d50141f9612eba2fe8e920d219e28b7c6f7fad928a60bcddfb86ee64/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6461726b" alt="Damazordon's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=Damazordon;theme=dark" style="max-width:100%;">
 
 
 
