@@ -1,62 +1,20 @@
-### Hi !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" style="max-width:100%;">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Gabriel+Damasceno;Engenharia+de+Dados;Pipelines+end-to-end+%7C+Python+%2B+SQL" alt="Typing SVG" />
 
+Análise e Desenvolvimento de Sistemas — Fatec Mogi das Cruzes · São Paulo, Brasil
 
-I am 25 years old and in my profile you will find information about my courses and college work, i hope it catches your attention.
+</div>
 
-From São Paulo, Brasil
+Foco em pipelines de dados end-to-end: ingestão, transformação (dbt) e orquestração (Airflow), aplicados a problemas reais de negócio.
 
-Analise e Desenvolvimento de sistemas - Fatec Mogi das Cruzes 🧑‍🎓
+<br>
+🚧 Projeto em destaque
 
+CâmbioTech — Reconciliação de Ordens FX vs. Mercado (link a atualizar) Pipeline de dados que reconcilia ordens de câmbio executadas internamente contra taxas oficiais de mercado, detectando anomalias de precificação e exposição cambial não coberta.
 
-
-### Social 😃
-
-
-<a href="https://www.facebook.com/gabriel.damasceno.5621149/" rel="nofollow">  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue" />  <a href="https://www.instagram.com/dalai_dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink" /> <a href="https://twitter.com/Dalai_Dama/" rel="nofollow"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=cyan" />
-
-### Contact Me 📧
-<a href="https://www.linkedin.com/in/damazordon/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" /> <a href=mailto:gabrielgabridma@gmail.com.br> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
-
-
-### Programming Languages ⚛️
-
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" />  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue" />  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red" />  <img src="https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=purple" />
-
-
-### IDE'S  👨‍💻
-
-
-<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" /> <img src="https://img.shields.io/badge/DEV_C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-
-
-### Data Base ⚡
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-
-### Stats ✍️
-
-![Damazordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damazordon&theme=react&show_icons=true)
-
-### Wakatime 👷
-
-[![Damazordon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Damazordon&theme=react&show_icons=true&v=2)
-
-
-
-<!--
-**Damazordon/Damazordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> </div> <br>
+Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,postgres,docker,git&theme=dark" /> </p> <br>
+GitHub
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Damazordon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> </div> <br>
+Contato
+<div align="left"> <a href="https://www.linkedin.com/in/damazordon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="mailto:gabrielgabridma@gmail.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> </div>
