@@ -10,11 +10,24 @@ Análise e Desenvolvimento de Sistemas — Fatec Mogi das Cruzes · São Paulo, 
 
 <br>
 
-## 🚧 Projeto em destaque
+## 🚀 Projeto em destaque
 
 ### CâmbioTech — Reconciliação de Ordens FX vs. Mercado *(link a atualizar)*
 
 Pipeline de dados end-to-end que simula o problema de uma corretora de câmbio: reconciliar ordens executadas internamente contra taxas oficiais de mercado para detectar anomalias de precificação e exposição cambial não coberta, dentro de janelas de reporte diário.
+
+```mermaid
+flowchart LR
+    A[Alpha Vantage API] --> C[Python · Ingestão]
+    B[(Fonte Transacional)] --> C
+    C --> D[(MinIO · Bronze)]
+    D --> E[dbt · Staging]
+    E --> F[dbt · Mart]
+    F --> G[(Postgres)]
+    H[Airflow] -.orquestra.-> C
+    H -.orquestra.-> E
+    H -.orquestra.-> F
+```
 
 - **Ingestão:** dois serviços em Python — consumo de API externa real (Alpha Vantage, com controle de rate limit e quota) e leitura de fonte transacional imperfeita
 - **Bronze/Landing zone:** MinIO (S3-compatible), populado via `docker compose up`
@@ -47,12 +60,14 @@ Automação que integra Claude (LLM) via Make.com para traduzir alertas técnico
 
 <br>
 
-## Stack
+## 🛠️ Stack
 
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
@@ -65,7 +80,16 @@ Automação que integra Claude (LLM) via Make.com para traduzir alertas técnico
 
 <br>
 
-## Contato
+## 📊 Atividade
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Damazordon&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damazordon&layout=compact&theme=transparent&hide_border=true" height="165" />
+</div>
+
+<br>
+
+## 📬 Contato
 
 <div align="left">
 <a href="https://www.linkedin.com/in/damazordon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
