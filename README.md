@@ -6,7 +6,7 @@ Análise e Desenvolvimento de Sistemas — Fatec Mogi das Cruzes · São Paulo, 
 
 </div>
 
-Formação em Análise e Desenvolvimento de Sistemas, com foco em Engenharia de Dados e Inteligência Artificial. Gosto de pegar dados brutos e bagunçados e transformar em algo que alguém no negócio realmente usa para decidir — isso é o que me trouxe para engenharia de dados.
+4+ anos atuando em ecossistemas de dados para tomada de decisão financeira e análise de risco — motores de decisão de crédito, validação em produção e shadow mode. Hoje aplico essa vivência para construir pipelines de dados end-to-end e automações com IA generativa aplicadas a problemas reais de negócio.
 
 <br>
 
@@ -30,6 +30,19 @@ Pipeline de dados end-to-end que simula o problema de uma corretora de câmbio: 
 <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</div>
+
+<br>
+
+### Alertas Inteligentes — LLM + Automação de Observabilidade
+
+Automação que integra Claude (LLM) via Make.com para traduzir alertas técnicos do Datadog em resumos claros e acionáveis no Slack — reduzindo o tempo de triagem de incidentes ao filtrar ruído e destacar o que realmente exige ação da equipe.
+
+<div align="left">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 
 <br>
