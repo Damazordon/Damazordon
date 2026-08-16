@@ -80,15 +80,6 @@ Automação que integra Claude (LLM) via Make.com para traduzir alertas técnico
 
 <br>
 
-## 📊 Atividade
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Damazordon&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damazordon&layout=compact&theme=transparent&hide_border=true" height="165" />
-</div>
-
-<br>
-
 ## 📬 Contato
 
 <div align="left">
