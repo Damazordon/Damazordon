@@ -6,7 +6,7 @@ Análise e Desenvolvimento de Sistemas — Fatec Mogi das Cruzes · São Paulo, 
 
 </div>
 
-4+ anos atuando em ecossistemas de dados para tomada de decisão financeira e análise de risco — motores de decisão de crédito, validação em produção e shadow mode. Hoje aplico essa vivência para construir pipelines de dados end-to-end e automações com IA generativa aplicadas a problemas reais de negócio.
+4+ anos atuando em ecossistemas de dados para tomada de decisão financeira e análise de risco, motores de decisão de crédito, validação em produção e shadow mode. Hoje aplico essa vivência para construir pipelines de dados end-to-end e automações com IA generativa aplicadas a problemas reais de negócio.
 
 <br>
 
