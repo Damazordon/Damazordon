@@ -23,21 +23,21 @@ Pipeline de dados end-to-end que simula o problema de uma corretora de câmbio: 
 
 ```mermaid
 flowchart LR
-    A[Alpha Vantage API] --> C[Ingestão]
+    A[Alpha Vantage API] --> C[Ingestão · GitHub Actions]
     B[(Lakebase Postgres)] --> C
-    C --> D[(Unity Catalog Volume · Raw)]
+    C -->|CLI upload| D[(Unity Catalog Volume · Raw)]
     D --> E[Bronze · Delta Table]
     E --> F[dbt-databricks · Staging]
     F --> G[dbt-databricks · Mart]
-    H[Databricks Workflows] -.orquestra.-> C
+    H[Databricks Workflows] -.orquestra.-> E
     H -.orquestra.-> F
     H -.orquestra.-> G
 ```
 
-- **Ingestão:** consumo de API externa real (Alpha Vantage, com controle de rate limit e quota) + Lakebase Postgres como fonte transacional das ordens executadas
+- **Ingestão:** roda fora do Databricks (GitHub Actions) — consumo de API externa real (Alpha Vantage, com controle de rate limit e quota) + Lakebase Postgres como fonte transacional, com o raw subido ao Volume via Databricks CLI (chamada de fora pra dentro, permitida no Free Edition serverless)
 - **Bronze:** Unity Catalog Volume (raw) → Delta table via `COPY INTO`/Auto Loader
 - **Transformação:** modelagem em camadas (staging → mart) com `dbt-databricks` rodando contra SQL Warehouse, incluindo testes de qualidade de dados
-- **Orquestração:** Databricks Workflows encadeando ingestão → dbt → testes
+- **Orquestração:** Databricks Workflows encadeando Bronze → dbt (staging/mart) → testes
 - **CI/CD:** GitHub Actions com lint (`black`, `flake8`, `sqlfluff`), `dbt build` com seeds (protege a quota) e Databricks Asset Bundles para deploy dos Jobs
 - **Resiliência:** simulação de incidente de produção (breaking change na API) resolvida via branch de hotfix, com plano de rollback documentado
 
