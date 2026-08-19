@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Gabriel+Damasceno;Engenharia+de+Dados;Pipelines+end-to-end+%7C+Python+%2B+SQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Gabriel+Damasceno;Pipelines+end-to-end+%7C+Python+%2B+SQL" alt="Typing SVG" />
 
 Análise e Desenvolvimento de Sistemas — Fatec Mogi das Cruzes · São Paulo, Brasil
 
