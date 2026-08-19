@@ -23,21 +23,26 @@ Pipeline de dados end-to-end que simula o problema de uma corretora de câmbio: 
 
 ```mermaid
 flowchart LR
-    A[Alpha Vantage API] --> C[Ingestão · GitHub Actions]
-    B[(Lakebase Postgres)] --> C
-    C -->|CLI upload| D[(Unity Catalog Volume · Raw)]
-    D --> E[Bronze · Delta Table]
-    E --> F[dbt-databricks · Staging]
-    F --> G[dbt-databricks · Mart]
-    H[Databricks Workflows] -.orquestra.-> E
-    H -.orquestra.-> F
-    H -.orquestra.-> G
+    A[Alpha Vantage API] --> AGH[GitHub Actions · cron diário]
+    AGH -->|CLI upload| VOL[(Unity Catalog Volume · raw/fx)]
+    VOL --> BFX[Bronze · fx_rates]
+    LKB[(Lakebase Postgres)] -->|consulta nativa| BORD[Bronze · orders]
+    BFX --> STG[dbt-databricks · Staging]
+    BORD --> STG
+    STG --> MART[dbt-databricks · Mart de Reconciliação]
+    WF[Databricks Workflows] -.orquestra a partir da Bronze.-> BFX
+    WF -.-> BORD
+    WF -.-> STG
+    WF -.-> MART
 ```
 
-- **Ingestão:** roda fora do Databricks (GitHub Actions) — consumo de API externa real (Alpha Vantage, com controle de rate limit e quota) + Lakebase Postgres como fonte transacional, com o raw subido ao Volume via Databricks CLI (chamada de fora pra dentro, permitida no Free Edition serverless)
-- **Bronze:** Unity Catalog Volume (raw) → Delta table via `COPY INTO`/Auto Loader
-- **Transformação:** modelagem em camadas (staging → mart) com `dbt-databricks` rodando contra SQL Warehouse, incluindo testes de qualidade de dados
-- **Orquestração:** Databricks Workflows encadeando Bronze → dbt (staging/mart) → testes
+*Detalhamento completo (schemas, nomes de modelo, lógica do join de reconciliação, ordem das tasks) em [`ARCHITECTURE.md`](#) (link a atualizar).*
+
+- **Ingestão — Alpha Vantage (externa):** GitHub Actions em cron diário protege a quota (25 req/dia), sobe o raw a um Unity Catalog Volume via Databricks CLI — único caminho que precisa sair do workspace
+- **Ingestão — Lakebase (nativa):** consultada direto por task do Databricks Workflows, sem upload externo
+- **Bronze:** duas tabelas independentes (uma por fonte), captura fiel sem transformação de negócio
+- **Transformação:** staging normaliza cada fonte separadamente; o mart faz o join FX × ordens pela janela de tempo/par de moeda e calcula o desvio de precificação, com testes dbt cobrindo limites de desvio e ordens órfãs
+- **Orquestração:** Workflows dispara as duas Bronze em paralelo (fontes independentes) → staging → mart
 - **CI/CD:** GitHub Actions com lint (`black`, `flake8`, `sqlfluff`), `dbt build` com seeds (protege a quota) e Databricks Asset Bundles para deploy dos Jobs
 - **Resiliência:** simulação de incidente de produção (breaking change na API) resolvida via branch de hotfix, com plano de rollback documentado
 
